@@ -1,0 +1,18 @@
+{
+  "name": "multiplayer-playground",
+  "version": "1.0.0",
+  "description": "trail and error",
+  "homepage": "https://github.com/wambosa/multiplayer_playground",
+  "main": "app.js",
+  "engines": {
+    "node": ">=6.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wambosa/multiplayer_playground"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.0.1"
+  }
+}
